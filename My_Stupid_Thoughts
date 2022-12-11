@@ -1,0 +1,11 @@
+todo  :
+0th draft
+
+
+
+1. make a basic kafka producer - consumer app
+2 . make a couple of topics
+3 . test it and check for kafka cosumer groups
+4 . open multiple tabs and test how its working in local
+
+
